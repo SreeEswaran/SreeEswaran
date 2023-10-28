@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 [![An image of @sreedeekshithaeswaran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreedeekshithaeswaran)](https://holopin.io/@sreedeekshithaeswaran)
+[![An image of @sreedeekshithaeswaran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreedeekshithaeswaran)](https://holopin.io/@sreedeekshithaeswaran)
