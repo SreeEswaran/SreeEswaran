@@ -5,8 +5,10 @@
 - 🔭 I’m currently working on DeepLearning and Web Development
 - 🌱 I’m currently learning Cloud Computing
 - ## Work Experience:
-     - Worked as an AIML intern at Enligence AI Technologies from April 2023-October 2023
-     - Worked on projects like
+  
+     -> Worked as an AIML intern at Enligence AI Technologies from April 2023-October 2023
+  
+     -> Worked on Deep Learning and NLP based projects like
        
             1. Voice Signatures
             
@@ -24,7 +26,7 @@
             
             8. Speaker gender recognition model
             
-            9. NLP based models
+            
 <!---- 👯 I’m looking to collaborate on ...
  🤔 I’m looking for help with ...
 - 💬 Ask me about ...
