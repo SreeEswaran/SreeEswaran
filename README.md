@@ -4,6 +4,18 @@
 
 - 🔭 I’m currently working on DeepLearning and Web Development
 - 🌱 I’m currently learning Cloud Computing
+- ## Work Experience:
+     - Worked as an AIML intern at Enligence AI Technologies from April 2023-October 2023
+     - Worked on projects like
+                1. Voice Signatures
+                2. Pronunciation evaluation model
+                3. Video captioning
+                4. Text translation model (IL)
+                5. Paraphrasing model
+                6. Text summariztion model
+                7. Audio translation model (IL)
+                8. Speaker gender recognition model
+                9. NLP based models
 <!---- 👯 I’m looking to collaborate on ...
  🤔 I’m looking for help with ...
 - 💬 Ask me about ...
