@@ -18,7 +18,7 @@
             
             5. Paraphrasing model
            
-            6. Text summariztion model
+            6. Text summarization model
      
             7. Audio translation model (IL)
             
