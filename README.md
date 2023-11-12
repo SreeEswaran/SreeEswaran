@@ -7,18 +7,18 @@
 
      -> Deep Learning
   
-       1.	Deep Learning Models
+       1. Deep Learning Models
        
              •	Transformers, GOPT, CNN, RNN, NLP Models [ BERT, GPT], LSTM (Long Short-Term Memory), NVIDIA Nemo Models [ SqueezeFormer, Quartznet], DeepGRU, WavGAN, CNN, 
                    VGG-Vox, x-vectors model
        
-       2.	Speech Processing and Recognition
+       2. Speech Processing and Recognition
        
              •	HMM (Hidden Markov Model), GMM (Gaussian Mixture Model), Kaldi (Speech recognition toolkit), ESPNet (End-to-End Speech Processing Toolkit
        
        3. Deep Learning Libraries and Framework- PyTorch, TensorFlow, Scikit-learn
      
-       4.GPU Acceleration- CUDA (Compute Unified Device Architecture)
+       4. GPU Acceleration- CUDA (Compute Unified Device Architecture)
        
      -> Web Technologies <!--[Full Stack Web Development] -->- HTML, CSS, JS, NodeJS, ExpressJS
        
