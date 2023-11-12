@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on DeepLearning and Web Development
 - 🌱 Technologies I'm good at
 
-     -> ### Deep Learning
+     -> Deep Learning
   
        1.	Deep Learning Models
        
@@ -20,7 +20,7 @@
      
        4.	GPU Acceleration- CUDA (Compute Unified Device Architecture)
        
-     -> ### Full Stack Web Development - HTML, CSS, JS, NodeJS, ExpressJS
+     -> Full Stack Web Development - HTML, CSS, JS, NodeJS, ExpressJS
        
 - ## Work Experience:
   
