@@ -18,9 +18,9 @@
        
        3. Deep Learning Libraries and Framework- PyTorch, TensorFlow, Scikit-learn
      
-       4.	GPU Acceleration- CUDA (Compute Unified Device Architecture)
+       4.GPU Acceleration- CUDA (Compute Unified Device Architecture)
        
-     -> Full Stack Web Development - HTML, CSS, JS, NodeJS, ExpressJS
+     -> Web Technologies <!--[Full Stack Web Development] -->- HTML, CSS, JS, NodeJS, ExpressJS
        
 - ## Work Experience:
   
