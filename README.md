@@ -5,44 +5,44 @@
 - 🔭 I’m currently working on DeepLearning and Web Development
 - 🌱 Technologies I'm good at
 
-     -> ## Deep Learning
+     -> ### Deep Learning
   
-  1.	Deep Learning Models
-  
-     •	Transformers, GOPT, CNN, RNN, NLP Models [ BERT, GPT], LSTM (Long Short-Term Memory), NVIDIA Nemo Models [ SqueezeFormer, Quartznet], DeepGRU, WavGAN, CNN, 
-              VGG-Vox, x-vectors model
-  
-  2.	Speech Processing and Recognition
-  
-     •	HMM (Hidden Markov Model), GMM (Gaussian Mixture Model), Kaldi (Speech recognition toolkit), ESPNet (End-to-End Speech Processing Toolkit
-  
-   3.	 Deep Learning Libraries and Framework-	PyTorch, TensorFlow, Scikit-learn
-
-     4.	GPU Acceleration- CUDA (Compute Unified Device Architecture)
-  
-     -> ## Full Stack Web Development - HTML, CSS, JS, NodeJS, ExpressJS, 
+       1.	Deep Learning Models
+       
+             •	Transformers, GOPT, CNN, RNN, NLP Models [ BERT, GPT], LSTM (Long Short-Term Memory), NVIDIA Nemo Models [ SqueezeFormer, Quartznet], DeepGRU, WavGAN, CNN, 
+                   VGG-Vox, x-vectors model
+       
+       2.	Speech Processing and Recognition
+       
+             •	HMM (Hidden Markov Model), GMM (Gaussian Mixture Model), Kaldi (Speech recognition toolkit), ESPNet (End-to-End Speech Processing Toolkit
+       
+       3. Deep Learning Libraries and Framework- PyTorch, TensorFlow, Scikit-learn
      
+       4.	GPU Acceleration- CUDA (Compute Unified Device Architecture)
+       
+     -> ### Full Stack Web Development - HTML, CSS, JS, NodeJS, ExpressJS
+       
 - ## Work Experience:
   
      -> Worked as an AIML intern at Enligence AI Technologies from April 2023-October 2023
   
      -> Worked on Deep Learning and NLP based projects like
        
-     1. Voice Signatures
-            
-     2. Pronunciation evaluation model
-           
-     3. Video captioning
-     
-     4. Text translation model (IL)
-            
-     5. Paraphrasing model
-           
-     6. Text summarization model
-     
-     7. Audio translation model (IL)
-            
-     8. Speaker gender recognition model
+          1. Voice Signatures
+                 
+          2. Pronunciation evaluation model
+                
+          3. Video captioning
+          
+          4. Text translation model (IL)
+                 
+          5. Paraphrasing model
+                
+          6. Text summarization model
+          
+          7. Audio translation model (IL)
+                 
+          8. Speaker gender recognition model
             
             
 <!---- 👯 I’m looking to collaborate on ...
