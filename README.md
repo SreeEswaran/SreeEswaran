@@ -3,7 +3,25 @@
 <!--Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on DeepLearning and Web Development
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 Technologies I'm good at
+
+     -> #Deep Learning
+  
+          1.	Deep Learning Models
+  
+              •	Transformers, GOPT, CNN, RNN, NLP Models [ BERT, GPT], LSTM (Long Short-Term Memory), NVIDIA Nemo Models [ SqueezeFormer, Quartznet], DeepGRU, WavGAN, CNN, 
+              VGG-Vox, x-vectors model
+  
+          2.	Speech Processing and Recognition
+  
+              •	HMM (Hidden Markov Model), GMM (Gaussian Mixture Model), Kaldi (Speech recognition toolkit), ESPNet (End-to-End Speech Processing Toolkit
+  
+          3.	 Deep Learning Libraries and Framework-	PyTorch, TensorFlow, Scikit-learn
+
+          4.	GPU Acceleration- CUDA (Compute Unified Device Architecture)
+  
+     -> #Full Stack Web Development - HTML, CSS, JS, NodeJS, ExpressJS, 
+     
 - ## Work Experience:
   
      -> Worked as an AIML intern at Enligence AI Technologies from April 2023-October 2023
