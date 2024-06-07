@@ -4,6 +4,17 @@
 
 - 🔭 I’m currently working on DeepLearning and Web Development
 - 🌱 Technologies I'm good at
+🔧 Skills:
+
+Programming Languages: Python, Java, C, C++, C#, Kotlin
+Web Development: HTML5, CSS, JavaScript, Node.JS, ExpressJs
+Databases: MySQL, MongoDB, Google Firebase, SQLite, Apache Cassandra, Neo4j, Cloud Databases
+AI & ML: Deep Learning, NLP, Prompt Engineering, Computer Vision, TensorFlow, PyTorch, Scikit-Learn
+Cloud Services: Google Cloud Platform (GCP), Amazon Web Services (AWS), Microsoft Azure
+Embedded Systems: Arduino, Raspberry Pi, ESP8266, ESP32, STM32
+Tools & Frameworks: Git, GitHub, Docker, Jenkins, Kubernetes, Ansible, FastAPI, Flask, CI/CD
+Development: Web, Game (Cloud and Unity based), Android, Web3
+Other: Content Writing, Designing, Sales and Marketing, Event Management
 
      -> Deep Learning
   
