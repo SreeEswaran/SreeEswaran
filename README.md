@@ -1,69 +1,53 @@
-### Hi there 👋
+## Professional Summary
+- AI and cloud technology expert with a focus on ML, DL, NLP, and IoT. Proficient in programming, project management, and mentoring. A tech-savvy with knowledge in several technologies and have donated 4 customized projects.
 
-<!--Here are some ideas to get you started:-->
+## Education
+- Bachelor of Technology in Computer Science Engineering with Honors in AI and ML from Vishnu Institute of Technology, CGPA: 9.14.
 
-- 🔭 I’m currently working on DeepLearning and Web Development
-- 🌱 Technologies I'm good at
-🔧 Skills:
+## Professional Experience
+- **AI and ML Intern**
+  - Enligence Technologies
+  - Specializing in project leadership and model development.
+- **Research Intern**
+  - Enligence Technologies
+  - Contributing to innovative AI technologies.
+- **ECELL Ambassador**
+  - Coincient.ai
+  - Showcasing marketing expertise and leadership skills.
 
-Programming Languages: Python, Java, C, C++, C#, Kotlin
-Web Development: HTML5, CSS, JavaScript, Node.JS, ExpressJs
-Databases: MySQL, MongoDB, Google Firebase, SQLite, Apache Cassandra, Neo4j, Cloud Databases
-AI & ML: Deep Learning, NLP, Prompt Engineering, Computer Vision, TensorFlow, PyTorch, Scikit-Learn
-Cloud Services: Google Cloud Platform (GCP), Amazon Web Services (AWS), Microsoft Azure
-Embedded Systems: Arduino, Raspberry Pi, ESP8266, ESP32, STM32
-Tools & Frameworks: Git, GitHub, Docker, Jenkins, Kubernetes, Ansible, FastAPI, Flask, CI/CD
-Development: Web, Game (Cloud and Unity based), Android, Web3
-Other: Content Writing, Designing, Sales and Marketing, Event Management
+## Leadership Experience
+- **Android Co-Lead**
+  - Google Developer Student Clubs VITB
+  - Leading Android development projects.
+- **Women Techmakers Member**
+  - Providing mentorship and attending industry events.
+- **Google Developer Groups Member**
+  - Enhancing technical skills and networking.
 
-     -> Deep Learning
-  
-       1. Deep Learning Models
-       
-             •	Transformers, GOPT, CNN, RNN, NLP Models [ BERT, GPT], LSTM (Long Short-Term Memory), NVIDIA Nemo Models [ SqueezeFormer, Quartznet], DeepGRU, WavGAN, CNN, 
-                   VGG-Vox, x-vectors model
-       
-       2. Speech Processing and Recognition
-       
-             •	HMM (Hidden Markov Model), GMM (Gaussian Mixture Model), Kaldi (Speech recognition toolkit), ESPNet (End-to-End Speech Processing Toolkit
-       
-       3. Deep Learning Libraries and Framework- PyTorch, TensorFlow, Scikit-learn
-     
-       4. GPU Acceleration- CUDA (Compute Unified Device Architecture)
-       
-     -> Web Technologies <!--[Full Stack Web Development] -->- HTML, CSS, JS, NodeJS, ExpressJS
-       
-- ## Work Experience:
-  
-     -> Worked as an AIML intern at Enligence AI Technologies from April 2023-October 2023
-  
-     -> Worked on Deep Learning and NLP based projects like
-       
-          1. Voice Signatures
-                 
-          2. Pronunciation evaluation model
-                
-          3. Video captioning
-          
-          4. Text translation model (IL)
-                 
-          5. Paraphrasing model
-                
-          6. Text summarization model
-          
-          7. Audio translation model (IL)
-                 
-          8. Speaker gender recognition model
-            
-            
-<!---- 👯 I’m looking to collaborate on ...
- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+## Technical Skills
+- **Programming Languages:** Python, Java, C/C++, Kotlin (intermediate), C#.
+- **Web Development:** HTML5, CSS, JavaScript, Node.js, Express.js.
+- **Databases:** MySQL, MongoDB, Google Firebase, SQLite, Apache Cassandra, Neo4j.
+- **AI and ML:** TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, OpenCV, Generative AI, Hugging Face.
+- **Cloud Services:** AWS, Google Cloud Platform (GCP), Microsoft Azure.
+- **Tools & Frameworks:** Git, GitHub, Docker, Jenkins, Kubernetes, Ansible, FastAPI, Flask, CI/CD.
+- **Development:** Web, Game (Cloud and Unity based), Android, Web3.
 
-[![An image of @sreedeekshithaeswaran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreedeekshithaeswaran)](https://holopin.io/@sreedeekshithaeswaran)
-<!--![Google Course Badge](https://example.com/path-to-your-badge-image.png)
-![Google Course Badge](https://cdn.qwiklabs.com/dGJj9QGPM0XKy1XJZwIrl5HAzGkopR5n8J5Ex1HzNUs%3D)
-https://www.cloudskillsboost.google/public_profiles/6e2c0132-37af-4f73-b527-d73be36db323/badges/5771779-->
+## Projects
+- **Deep Dub:** Developed a deep learning model for video translation.
+- **Pronunciation Model:** Created a pronunciation rating system using AI models.
+- **Text Translator:** Developed a full-stack app for language translation.
+- **LLM Telegram Bot:** Built a Telegram bot with AI integration.
+- **Smart Invigilation System:** Developed an exam invigilation app.
+- **Smart Gloves & MediServe:** IoT applications for assisting the blind and elderly.
+
+## Achievements
+- Published paper on Springer.
+- Recognized as a Google Cloud Innovator and Women Techmaker.
+- Finalist in coding competitions and winner of internal hackathons.
+
+## Languages Known
+- English, Hindi, Telugu, Tamil.
+
+## Corporate Engagements
+- Google, Amazon, AWS, Microsoft, Amazon, IBM, etc.
