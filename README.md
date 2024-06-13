@@ -48,3 +48,5 @@
 
 ## Corporate Engagements
 - Google, Amazon, AWS, Microsoft, IBM, etc.
+
+![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeewaran&show_icons=true&theme=radical)
