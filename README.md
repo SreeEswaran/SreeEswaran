@@ -21,9 +21,6 @@
 - **Google Developer Groups Member**
   - Enhancing technical skills and networking.-->
 
-
-![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=radical)
-
 ## Technical Skills
 - **Programming Languages:** Python, Java, C/C++, Kotlin (intermediate), C#.
 - **Web Development:** HTML5, CSS, JavaScript, Node.js, Express.js.
@@ -40,6 +37,9 @@
 - **LLM Telegram Bot:** Built a Telegram bot with AI integration.
 - **Smart Invigilation System:** Developed an exam invigilation app.
 - **Smart Gloves & MediServe:** IoT applications for assisting the blind and elderly.
+
+
+![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=radical)
 
 <!--## Achievements
 - Published paper on Springer.
