@@ -1,7 +1,7 @@
 ## Professional Summary
 - AI and cloud technology expert with a focus on ML, DL, NLP, and IoT. Proficient in programming, project management, and mentoring. A tech-savvy with knowledge in several technologies and have donated 4 customized projects.
 
-## Professional Experience
+<!--## Professional Experience
 - **AI and ML Intern**
   - Enligence Technologies
   - Specializing in project leadership and model development.
@@ -19,7 +19,10 @@
 - **Women Techmakers Member**
   - Providing mentorship and attending industry events.
 - **Google Developer Groups Member**
-  - Enhancing technical skills and networking.
+  - Enhancing technical skills and networking.-->
+
+
+![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=radical)
 
 ## Technical Skills
 - **Programming Languages:** Python, Java, C/C++, Kotlin (intermediate), C#.
@@ -38,7 +41,7 @@
 - **Smart Invigilation System:** Developed an exam invigilation app.
 - **Smart Gloves & MediServe:** IoT applications for assisting the blind and elderly.
 
-## Achievements
+<!--## Achievements
 - Published paper on Springer.
 - Recognized as a Google Cloud Innovator and Women Techmaker.
 - Finalist in coding competitions and winner of internal hackathons.
@@ -47,6 +50,4 @@
 - English, Hindi, Telugu, Tamil.
 
 ## Corporate Engagements
-- Google, Amazon, AWS, Microsoft, IBM, etc.
-
-![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=radical)
+- Google, Amazon, AWS, Microsoft, IBM, etc.-->
