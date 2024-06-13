@@ -50,4 +50,4 @@
 - English, Hindi, Telugu, Tamil.
 
 ## Corporate Engagements
-- Google, Amazon, AWS, Microsoft, Amazon, IBM, etc.
+- Google, Amazon, AWS, Microsoft, IBM, etc.
