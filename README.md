@@ -1,9 +1,6 @@
 ## Professional Summary
 - AI and cloud technology expert with a focus on ML, DL, NLP, and IoT. Proficient in programming, project management, and mentoring. A tech-savvy with knowledge in several technologies and have donated 4 customized projects.
 
-## Education
-- Bachelor of Technology in Computer Science Engineering with Honors in AI and ML from Vishnu Institute of Technology, CGPA: 9.14.
-
 ## Professional Experience
 - **AI and ML Intern**
   - Enligence Technologies
