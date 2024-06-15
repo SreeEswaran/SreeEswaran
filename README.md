@@ -53,7 +53,7 @@
 
 ## My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact)](https://github.com/sreeeswaran/github-readme-stats)
 
 
 ## Projects
