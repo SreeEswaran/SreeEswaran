@@ -41,6 +41,14 @@
 
 ![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=radical)
 
+## Languages and Tools
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+
 <!--## Achievements
 - Published paper on Springer.
 - Recognized as a Google Cloud Innovator and Women Techmaker.
