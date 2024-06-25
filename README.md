@@ -25,7 +25,7 @@
 - **Programming Languages:** Python, Java, C/C++, Kotlin (intermediate), C#.
 - **Web Development:** HTML5, CSS, JavaScript, Node.js, Express.js.
 - **Databases:** MySQL, MongoDB, Google Firebase, SQLite, Apache Cassandra, Neo4j.
-- **AI and ML:** TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, OpenCV, Generative AI, Hugging Face.
+- **AI and ML:** TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, OpenCV, Generative AI, Hugging Face.
 - **Cloud Services:** AWS, Google Cloud Platform (GCP), Microsoft Azure.
 - **Tools & Frameworks:** Git, GitHub, Docker, Jenkins, Kubernetes, Ansible, FastAPI, Flask, CI/CD.
 - **Development:** Web, Game (Cloud and Unity based), Android, Web3.
