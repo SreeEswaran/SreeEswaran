@@ -57,12 +57,14 @@
 <div style="display: flex; justify-content: space-between;">
 
   <!-- Top Languages Card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeEswaran&layout=compact&theme=highcontrast" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeEswaran&layout=compact&theme=highcontrast" alt="Top Languages" style="margin-right: 20px;"/>
 
   <!-- GitHub Stats Card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SreeEswaran&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SreeEswaran&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="margin-leftt: 20px;" />
 
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact)](https://github.com/sreeeswaran/github-readme-stats)  [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)-->
 
