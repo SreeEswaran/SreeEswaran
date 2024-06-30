@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact&theme=highcontrast" alt="Top Languages" style="margin-right: 20px; width: 40%;" />
 
    <!-- GitHub Streaks -->
-  <img src="(https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast" alt="GitHub Streaks" style="margin-left: 20px; width: 45%;" />
+  <img src="https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast" alt="GitHub Streaks" style="margin-left: 20px; width: 45%;" />
 
 </div>
  
