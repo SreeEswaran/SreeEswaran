@@ -59,14 +59,14 @@
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact&theme=highcontrast" alt="Top Languages" style="margin-right: 20px; width: 40%;" />
 
-   <!-- GitHub Streaks -->
-  <img src="https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast" alt="GitHub Streaks" style="margin-left: 50px; width: 45%;" />
+   <!-- GitHub Status -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=highcontrast" alt="GitHub Status" style="margin-left: 30px; align-items="right;" width: 40%;" />
 
 </div>
  
- ![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=highcontrast)
+ <!--![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=highcontrast)-->
  
- <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&show_icons=true&theme=highcontrast)](https://git.io/streak-stats)-->
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&show_icons=true&theme=highcontrast)](https://git.io/streak-stats)
 
 
 
