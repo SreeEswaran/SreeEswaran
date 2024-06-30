@@ -58,18 +58,22 @@
 
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact&theme=highcontrast" alt="Top Languages" style="margin-right: 20px; width: 40%;" />
+
+   <!-- GitHub Streaks -->
+  <img src="(https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast" alt="GitHub Streaks" style="margin-left: 20px; width: 45%;" />
+
 </div>
  
  ![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=highcontrast)
  
- [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)
+ <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&show_icons=true&theme=highcontrast)](https://git.io/streak-stats)-->
 
 
 
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact)](https://github.com/sreeeswaran/github-readme-stats)-->  
-                                                       <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)-->
+   <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)-->
 
 
 ## Projects
