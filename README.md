@@ -60,7 +60,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeEswaran&layout=compact&theme=highcontrast" alt="Top Languages" style="margin-right: 20px;"/>
 
   <!-- GitHub Stats Card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SreeEswaran&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="margin-left: 20px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SreeEswaran&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="margin-left: 50px;" />
 
 </div>
 
