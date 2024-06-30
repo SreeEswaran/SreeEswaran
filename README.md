@@ -53,7 +53,18 @@
 
 ## My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact)](https://github.com/sreeeswaran/github-readme-stats)  [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)
+<!-- Display Top Languages and GitHub Stats side by side -->
+<div style="display: flex; justify-content: space-between;">
+
+  <!-- Top Languages Card -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeEswaran&layout=compact&theme=highcontrast" alt="Top Languages" />
+
+  <!-- GitHub Stats Card -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SreeEswaran&show_icons=true&theme=highcontrast" alt="GitHub Stats" />
+
+</div>
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact)](https://github.com/sreeeswaran/github-readme-stats)  [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)-->
 
 
 ## Projects
