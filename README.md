@@ -53,7 +53,8 @@
 
 ## My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact)](https://github.com/sreeeswaran/github-readme-stats)                               [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact)](https://github.com/sreeeswaran/github-readme-stats)                              
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran)](https://git.io/streak-stats)
 
 
 ## Projects
