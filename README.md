@@ -53,16 +53,17 @@
 
 ## My GitHub Stats
 
-<!-- Display Top Languages and GitHub Stats side by side -->
-<div style="display: flex; justify-content: space-between;">
+<!-- Display Top Languages and GitHub Stats side by side with space in between -->
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
 
   <!-- Top Languages Card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreeEswaran&layout=compact&theme=highcontrast" alt="Top Languages" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact&theme=highcontrast" alt="Top Languages" style="margin-right: 20px; width: 45%;" />
 
   <!-- GitHub Stats Card -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SreeEswaran&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="margin-left: 50px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="margin-left: 20px; width: 45%;" />
 
 </div>
+
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)
 <!--
