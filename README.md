@@ -62,16 +62,13 @@
   <!-- GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=highcontrast" alt="GitHub Stats" style="margin-left: 20px; width: 40%;" />
 
-</div>
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+</div>-->
 
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast" alt="Top Languages" style="margin-right: 20px; width: 40%;" />
-</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact)](https://github.com/sreeeswaran/github-readme-stats)  [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)-->
+<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact)](https://github.com/sreeeswaran/github-readme-stats)  ![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=highcontrast)
+                                                        [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)
 
 
 ## Projects
@@ -83,7 +80,7 @@
 - **Smart Gloves & MediServe:** IoT applications for assisting the blind and elderly.
 
 
-![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=radical)
+<!--![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=radical)-->
 
 <!--## Achievements
 - Published paper on Springer.
