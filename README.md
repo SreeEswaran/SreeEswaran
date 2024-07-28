@@ -1,7 +1,8 @@
 ## Professional Summary
 - AI and cloud technology expert with a focus on ML, DL, NLP, and IoT. Proficient in programming, project management, and mentoring. A tech-savvy with knowledge in several technologies and have donated 4 customized projects.
 
-![Profile views](https://shields.io/badge/dynamic/json?color=green&label=Profile%20views&query=value&url=https://api.github.com/repos/SreeEswaran/SreeEswaran/views)
+<!--![Profile views](https://shields.io/badge/dynamic/json?color=green&label=Profile%20views&query=value&url=https://api.github.com/repos/SreeEswaran/SreeEswaran/views)-->
+![Profile views](http://hits.dwyl.com/SreeEswaran/SreeEswaran.svg)
 <!--## Professional Experience
 - **AI and ML Intern**
   - Enligence Technologies
