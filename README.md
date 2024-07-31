@@ -1,5 +1,5 @@
 ## Professional Summary
-- AI and cloud technology expert with a focus on ML, DL, NLP, and IoT. Proficient in programming, project management, and mentoring. A tech-savvy with knowledge in several technologies and have donated 4 customized projects.
+- Tech savvy with experise in AI, cloud and IoT. Proficient in programming, project management, and mentoring. A tech-savvy with knowledge in several technologies and have donated 4 customized projects.
 
 <!--![Profile views](https://shields.io/badge/dynamic/json?color=green&label=Profile%20views&query=value&url=https://api.github.com/repos/SreeEswaran/SreeEswaran/views)-->
 <!--![Profile views](http://hits.dwyl.com/SreeEswaran/SreeEswaran.svg)-->
@@ -27,10 +27,10 @@
 
 ## Technical Skills
 - **Programming Languages:** Python, Java, C/C++, Kotlin (intermediate), C#.
+- **AI and ML:** TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, OpenCV, Generative AI, LLM, RAGs, GANs, ASR models, Translation models, GPT series, Transformers, Hugging Face.
+- **Cloud Services:** AWS, Google Cloud Platform (GCP), Microsoft Azure.
 - **Web Development:** HTML5, CSS, JavaScript, Node.js, Express.js.
 - **Databases:** MySQL, MongoDB, Google Firebase, SQLite, Apache Cassandra, Neo4j.
-- **AI and ML:** TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, OpenCV, Generative AI, LLM, RAGs, GANs, Hugging Face.
-- **Cloud Services:** AWS, Google Cloud Platform (GCP), Microsoft Azure.
 - **Tools & Frameworks:** Git, GitHub, Docker, Jenkins, Kubernetes, Ansible, FastAPI, Flask, CI/CD.
 - **Development:** Web, Game (Cloud and Unity based), Android, Web3.
 
