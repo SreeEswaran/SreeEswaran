@@ -78,6 +78,7 @@ Tech savvy with expertise in AI, cloud and IoT. I'm currently an AI Mentor, coac
 - **LLM Telegram Bot:** Built a Telegram bot with AI integration.
 - **Smart Invigilation System:** Developed an exam invigilation app.
 - **Smart Gloves & MediServe:** IoT applications for assisting the blind and elderly.
+- For more do check out the repositories
 
 
 <!--![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=radical)-->
