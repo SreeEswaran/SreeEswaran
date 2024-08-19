@@ -1,5 +1,5 @@
 ## Professional Summary
-Tech savvy with expertise in AI, cloud and IoT. I'm currently an AI Mentor, coach,AI Developer and a Researcher. Proficient in programming, project management, and mentoring. A techie with knowledge in several technologies and have donated 4 customized projects.
+I'm currently an AI Mentor, Coach, AI Speaker, Freelance AI Developer and Researcher. Tech savvy with expertise in AI, cloud and IoT. Proficient in programming, project management, mentoring and more. A techie with knowledge in several technologies which includes Web, Game and Android Dev, DevOps and have donated 4 customized projects which were built on IoT.
 
 <!--![Profile views](https://shields.io/badge/dynamic/json?color=green&label=Profile%20views&query=value&url=https://api.github.com/repos/SreeEswaran/SreeEswaran/views)-->
 <!--![Profile views](http://hits.dwyl.com/SreeEswaran/SreeEswaran.svg)-->
