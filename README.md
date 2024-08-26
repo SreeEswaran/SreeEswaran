@@ -1,6 +1,6 @@
 ## Professional Summary
 Hi there!
-I'm Sree Deekshitha Yerra, an AI Speaker, AI Mentor, Coach, Freelance AI Developer and Researcher. Tech savvy with expertise in AI, cloud and IoT. Proficient in programming, project management, mentoring and more. A techie with knowledge in several technologies which includes Web, Game and Android Dev, DevOps and have donated 4 customized IoT projects.
+I'm Sree Deekshitha Yerra, an AI Developer, Researcher and Mentor. Tech savvy with expertise in AI, cloud and IoT. Proficient in programming, project management, mentoring and more. A techie with knowledge in several technologies which includes Web, Game and Android Dev, DevOps and have donated 4 customized IoT projects.
 
 <!--![Profile views](https://shields.io/badge/dynamic/json?color=green&label=Profile%20views&query=value&url=https://api.github.com/repos/SreeEswaran/SreeEswaran/views)-->
 <!--![Profile views](http://hits.dwyl.com/SreeEswaran/SreeEswaran.svg)-->
