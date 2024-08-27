@@ -1,4 +1,4 @@
-## Hi there!
+## Hi there!👋
 I'm **Sree Deekshitha Yerra**, an AI Developer, Researcher, and Mentor with expertise in AI, Cloud Computing, and IoT. I excel in programming, project management, and mentoring across various technologies, including Web, Game, Android Development, and DevOps. I've also contributed to social causes by donating four customized IoT projects.
 
 ## 🌐 Connect with Me
