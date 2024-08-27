@@ -1,8 +1,10 @@
-## Professional Summary
-Hi there!
-I'm Sree Deekshitha Yerra, an AI Developer, Researcher and Mentor. Tech savvy with expertise in AI, cloud and IoT. Proficient in programming, project management, mentoring and more. A techie with knowledge in several technologies which includes Web, Game and Android Dev, DevOps and have donated 4 customized IoT projects.
+## Hi there!
+I'm **Sree Deekshitha Yerra**, an AI Developer, Researcher, and Mentor with expertise in AI, Cloud Computing, and IoT. I excel in programming, project management, and mentoring across various technologies, including Web, Game, Android Development, and DevOps. I've also contributed to social causes by donating four customized IoT projects.
 
-Do Check out my other handles too!! [Here's the link](https:linktr.ee/SreeEswaran) 
+## 🌐 Connect with Me
+Check out my other handles for more content: [Here's the link](https:linktr.ee/SreeEswaran) 
+
+<!--Do Check out my other handles too!! [Here's the link](https:linktr.ee/SreeEswaran) 
 <!--![Profile views](https://shields.io/badge/dynamic/json?color=green&label=Profile%20views&query=value&url=https://api.github.com/repos/SreeEswaran/SreeEswaran/views)-->
 <!--![Profile views](http://hits.dwyl.com/SreeEswaran/SreeEswaran.svg)-->
 ![Profile  views](https://komarev.com/ghpvc/?username=SreeEswaran&label=Profile%20views&color=blue&style=for-the-badge)
@@ -70,23 +72,15 @@ Do Check out my other handles too!! [Here's the link](https:linktr.ee/SreeEswara
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ## My GitHub Stats
 
-
- <!--![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=highcontrast)
- 
- [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&show_icons=true&theme=highcontrast)](https://git.io/streak-stats) 
-
-
-
-<!--[![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)-->
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeeswaran&layout=compact&theme=highcontrast)](https://github.com/sreeeswaran/github-readme-stats) ![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=highcontrast)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)
-
 
 ## Projects
 - **Deep Dub:** Developed a deep learning model for video translation.
@@ -95,18 +89,4 @@ Do Check out my other handles too!! [Here's the link](https:linktr.ee/SreeEswara
 - **LLM Telegram Bot:** Built a Telegram bot with AI integration.
 - **Smart Invigilation System:** Developed an exam invigilation app.
 - **Smart Gloves & MediServe:** IoT applications for assisting the blind and elderly.
-- For more do check out the repositories
-
-
-<!--![SreeEswaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreeeswaran&show_icons=true&theme=radical)-->
-
-<!--## Achievements
-- Published paper on Springer.
-- Recognized as a Google Cloud Innovator and Women Techmaker.
-- Finalist in coding competitions and winner of internal hackathons.
-
-## Languages Known
-- English, Hindi, Telugu, Tamil.
-
-## Corporate Engagements
-- Google, Amazon, AWS, Microsoft, IBM, etc.-->
+- For more do check out the repositories (More projects are yet to be added)
