@@ -62,7 +62,6 @@ Do Check out my other handles too!! [Here's the link](https:linktr.ee/SreeEswara
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Cloud AI](https://img.shields.io/badge/Google%20Cloud%20AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![AWS Machine Learning](https://img.shields.io/badge/AWS%20Machine%20Learning-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
