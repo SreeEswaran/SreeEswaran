@@ -7,7 +7,7 @@ Check out my other handles for more content: [Here's the link tree- Links to all
 <!--Do Check out my other handles too!! [Here's the link](https:linktr.ee/SreeEswaran) 
 <!--![Profile views](https://shields.io/badge/dynamic/json?color=green&label=Profile%20views&query=value&url=https://api.github.com/repos/SreeEswaran/SreeEswaran/views)-->
 <!--![Profile views](http://hits.dwyl.com/SreeEswaran/SreeEswaran.svg)-->
-![Profile  views](https://komarev.com/ghpvc/?username=SreeEswaran&label=Profile%20views&color=blue&style=for-the-badge)
+![Profileviews](https://komarev.com/ghpvc/?username=SreeEswaran&label=Profile%20views&color=blue&style=for-the-badge)
 
 <!--## Professional Experience
 - **AI and ML Intern**
