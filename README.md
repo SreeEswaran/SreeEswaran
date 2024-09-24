@@ -30,7 +30,7 @@ Check out my other handles for more content: [Here's the link tree- Links to all
   - Enhancing technical skills and networking.-->
 
 ## Technical Skills
-- **Programming Languages:** Python, Java, C/C++, Kotlin (intermediate), C#.
+- **Programming Languages:** Python, Java, C/C++, Kotlin, C#.
 - **Artificial Intelligence:** Large Language Models (LLMs), NLP, Generative AI, RAGs, GANs, KNNs, ASR models, Translation models, GPT series, Transformers, TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, OpenCV,  Hugging Face.
 - **Cloud Services:** AWS, Google Cloud Platform (GCP), Microsoft Azure.
 - **Web Development:** HTML5, CSS, JavaScript, Node.js, Express.js.
