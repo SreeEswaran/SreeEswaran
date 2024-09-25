@@ -76,6 +76,7 @@ Check out my other handles for more content: [Here's the link tree- Links to all
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=SreeEswaran&theme=darkhub&no-frame=true&margin-w=10)
 
 ## My GitHub Stats
