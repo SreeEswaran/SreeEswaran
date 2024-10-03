@@ -92,3 +92,5 @@ Check out my other handles for more content: [Here's the link tree- Links to all
 - **Smart Invigilation System:** Developed an exam invigilation app.
 - **Smart Gloves & MediServe:** IoT applications for assisting the blind and elderly.
 - For more do check out the repositories (More projects are yet to be added)
+
+[![An image of @sreeeswaran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreeeswaran)](https://holopin.io/@sreeeswaran)
