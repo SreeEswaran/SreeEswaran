@@ -93,4 +93,5 @@ Check out my other handles for more content: [Here's the link tree- Links to all
 - **Smart Gloves & MediServe:** IoT applications for assisting the blind and elderly.
 - For more do check out the repositories (More projects are yet to be added)
 
+## Holopin Badges
 [![An image of @sreedeekshithaeswaran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreedeekshithaeswaran)](https://holopin.io/@sreedeekshithaeswaran)
