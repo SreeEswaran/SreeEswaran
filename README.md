@@ -11,6 +11,7 @@ Check out my other handles for more content: [Click here to find Links to all my
 
 <!--## Professional Experience
 - **AI and ML Intern**
+
   - Enligence Technologies
   - Specializing in project leadership and model development.
 - **Research Intern**
