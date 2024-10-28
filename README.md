@@ -16,7 +16,6 @@ Check out my other handles for more content: [Click here to find Links to all my
 - **Research Intern**
   - Enligence Technologies
   - Contributing to innovative AI technologies.
-
 - **ECELL Ambassador**
   - Coincient.ai
   - Showcasing marketing expertise and leadership skills.
