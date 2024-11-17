@@ -21,7 +21,6 @@ Check out my other handles for more content: [Click here to find Links to all my
 - **ECELL Ambassador**
   - Coincient.ai
   - Showcasing marketing expertise and leadership skills.
-
 ## Leadership Experience
 - **Android Co-Lead**
   - Google Developer Student Clubs VITB
