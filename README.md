@@ -27,6 +27,7 @@ Check out my other handles for more content: [Click here to find Links to all my
   - Leading Android development projects.
 - **Women Techmakers Member**
   - Providing mentorship and attending industry events.
+
 - **Google Developer Groups Member**
   - Enhancing technical skills and networking.-->
 
