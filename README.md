@@ -11,7 +11,8 @@ Check out my other handles for more content: [Click here to find Links to all my
 
 ![Profileviews](https://komarev.com/ghpvc/?username=SreeEswaran&label=Profile%20views&color=blue&style=for-the-badge)
 
-<!--## Professional Experience
+<!--
+## Professional Experience
 - **AI and ML Intern**
   - Enligence Technologies
   - Specializing in project leadership and model development.
