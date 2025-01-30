@@ -24,7 +24,7 @@ Check out my other handles for more content: [Click here to find Links to all my
   - Showcasing marketing expertise and leadership skills.
 
 ## Leadership Experience
-- **Android Co-Lead**
+- **GDG On Campus CoOrganizer & Ex-Android Co-Lead**
   - Google Developer Student Clubs VITB
   - Leading Android development projects.
 - **Women Techmakers Member**
