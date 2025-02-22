@@ -1,5 +1,5 @@
 ## Hi there!👋
-I'm **Sree Deekshitha Yerra**, an AI Developer, Research student, Mentor and Trainer with expertise in AI, Cloud Computing, and IoT. I excel in programming, project management, and mentoring across various technologies, including Web, Game, Android Development, and DevOps. I've also contributed to social causes by donating four customized IoT projects.
+I'm **Sree Deekshitha Yerra**, an AI Mentor, Trainer, an AI Developer, Research student, Mentor and Trainer with expertise in AI, Cloud Computing, and IoT. I excel in programming, project management, and mentoring across various technologies, including alAI, Web, Game, Android Development, and DevOps. I've also contributed to social causes by donating four customized IoT projects.
 
 ## 🌐 Connect with Me
 Check out my other handles for more content: [Click here to find Links to all my handles](https://linktr.ee/SreeEswaran) 
@@ -26,7 +26,7 @@ Check out my other handles for more content: [Click here to find Links to all my
 ## Leadership Experience
 - **GDG On Campus CoOrganizer & Ex-Android Co-Lead**
   - Google Developer Student Clubs VITB
-  - Leading Android development projects.
+  - Leading 5 hackathons including two 24 hr hackathons and one 72 hour hackathon, multiple workshops and meetups.
 - **Women Techmakers Member**
   - Providing mentorship and attending industry events.
 - **Google Developer Groups Member**
@@ -88,6 +88,7 @@ Check out my other handles for more content: [Click here to find Links to all my
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)
 
 ## Projects
+- **EduVeekshan:** An EdTech platform for cartoonifying and simplifying the educational topics. This project includes a chatbot, personalized recommendations 
 - **Deep Dub:** Developed a deep learning model for video translation.
 - **Pronunciation Model:** Created a pronunciation rating system using AI models.
 - **Text Translator:** Developed a full-stack app for language translation.
