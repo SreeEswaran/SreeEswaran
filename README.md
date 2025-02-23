@@ -1,5 +1,5 @@
 ## Hi there!👋
-I'm **Sree Deekshitha Yerra**, an AI Mentor, Trainer, an AI Developer, Research student, Mentor and Trainer with expertise in AI, Cloud Computing, and IoT. I excel in programming, project management, and mentoring across various technologies, including alAI, Web, Game, Android Development, and DevOps. I've also contributed to social causes by donating four customized IoT projects.
+I'm **Sree Deekshitha Yerra**, an AI Mentor, Trainer, Speaker and an AI Developer, with expertise in AI, Cloud Computing, and IoT. I excel in programming, project management, and mentoring across various technologies, including alAI, Web, Game, Android Development, and DevOps. I've also contributed to social causes by donating four customized IoT projects.
 
 ## 🌐 Connect with Me
 Check out my other handles for more content: [Click here to find Links to all my handles](https://linktr.ee/SreeEswaran) 
