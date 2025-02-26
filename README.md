@@ -88,7 +88,7 @@ Check out my other handles for more content: [Click here to find Links to all my
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SreeEswaran&theme=highcontrast)](https://git.io/streak-stats)
 
 ## Projects
-- **EduVeekshan:** An EdTech platform for cartoonifying and simplifying the educational topics. This project includes a chatbot, personalized recommendations 
+- **EduVeekshan:** An EdTech platform for cartoonifying and simplifying the educational topics. This project includes a chatbot, personalized recommendation system 
 - **Deep Dub:** Developed a deep learning model for video translation.
 - **Pronunciation Model:** Created a pronunciation rating system using AI models.
 - **Text Translator:** Developed a full-stack app for language translation.
@@ -99,4 +99,3 @@ Check out my other handles for more content: [Click here to find Links to all my
 
 ## Holopin Badges
 [![An image of @sreedeekshithaeswaran's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sreedeekshithaeswaran)](https://holopin.io/@sreedeekshithaeswaran)
-
