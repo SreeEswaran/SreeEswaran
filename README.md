@@ -34,7 +34,7 @@ Check out my other handles for more content: [Click here to find Links to all my
 
 ## Technical Skills
 - **Programming Languages:** Python, Java, C/C++, Kotlin, C#.
-- **Artificial Intelligence:** Large Language Models (LLMs), NLP, Generative AI, RAGs, GANs, KNNs, ASR models, Translation models, GPT series, Transformers, TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, OpenCV,  Hugging Face.
+- **Artificial Intelligence:** Large Language Models (LLMs), NLP, Generative AI, RAGs, GANs, KNNs, ASR models, Translation models, GPT series, Transformers, Agent AI, TensorFlow, PyTorch, Keras, Scikit-Learn, Pandas, NumPy, OpenCV,  Hugging Face.
 - **Cloud Services:** AWS, Google Cloud Platform (GCP), Microsoft Azure.
 - **Web Development:** HTML5, CSS, JavaScript, Node.js, Express.js.
 - **Databases:** MySQL, Vector databases, Cloud databases, NoSQL databases, MongoDB, Google Firebase, SQLite, Apache Cassandra, Neo4j.
